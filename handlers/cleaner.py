@@ -32,7 +32,7 @@ async def clear_raw(_, message: Message):
     if ls_dir:
         for file in os.listdir(raw_files):
             os.remove(os.path.join(raw_files, file))
-        await message.reply_text("`ᴄʟᴇᴀɴɪɴɢ sɪʟᴇɴᴛ ᴅʙ🗑️`")
+        await message.reply_text("`ᴄʟᴇᴀɴɪɴɢ ᴅʙ🗑️`")
     else:
         await message.reply_text("`ᴀʟʀᴇᴀᴅʏ ᴄʟᴇᴀɴᴇᴅ🙋‍♀️`")
 
