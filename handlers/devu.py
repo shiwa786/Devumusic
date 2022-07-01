@@ -12,7 +12,7 @@ from config import (BOT_NAME, SUPPORT_GROUP, OWNER_USERNAME, BOT_USERNAME,BOT_IM
 from cache.stuffs.string import (t1, t2, t3, t4, t5)
 from cache.stuffs.string2 import (button1, button2, button3, button4)
 
-@bot.on_message(filters.command("start"))
+@bot.on_message(filters.command("mstart"))
 def start_(bot, message):
     message.reply_photo(
         photo=BOT_IMG,
