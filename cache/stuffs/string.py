@@ -8,7 +8,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQ
 from config import (BOT_NAME, SUPPORT_GROUP, OWNER_USERNAME, BOT_USERNAME)
 
 
-t1 = """Hey {}\n\n➥ Myself {}\n❅ A simple , lagfree and flexible music robot!\n❅ If you facing any issue related to this music bot then please join @{}\n❅ For more help you can explorer help menu by tapping on /help !"""
+t1 = """Hey {}\n\n➥ Myself {}\n❅ A simple , lagfree and flexible music robot!\n❅ If you facing any issue related to this music bot then please join @{}\n❅ For more help you can explorer help menu by tapping on /mhelp !"""
 
 
 t2 = """Hoi {}\nHere is the help menu choose your desireoption nd explorer it!!\n\nFor any kind of help or query Just join @{} and ask your query!!"""
