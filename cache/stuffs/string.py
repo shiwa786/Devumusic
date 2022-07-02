@@ -17,28 +17,28 @@ t2 = """Hoi {}\nHere is the help menu choose your desireoption nd explorer it!!\
 t3 = """
 `Basics Commands !!`
 
-/play (query, ytlink, audio file) - use this command and enjoy music
-/ytp (query) - Use it for better search music!!
-/song (query) - Download your favourite songs using this command!
-/search (query) - This command will give you youtube search of your query!
+/mplay (query, ytlink, audio file) - use this command and enjoy music
+/mytp (query) - Use it for better search music!!
+/msong (query) - Download your favourite songs using this command!
+/msearch (query) - This command will give you youtube search of your query!
 """
 
 t4 = """
 `Admins Commands!!`
 
-/pause - To pause the song!
-/resume - Resume paused song!
-/skip - skip to the next song!
-/end - End the stream!
-/joinub - To invite assistant in your group!
+/mpause - To pause the song!
+/mresume - Resume paused song!
+/mskip - skip to the next song!
+/mend - End the stream!
+/mjoinub - To invite assistant in your group!
 
 
 `Sudo Command!`
 
-/rmf - To clean Download file from database!
-/rmw - To clean raw files from database!
-/dclean - To clean files from server!
+/mrmf - To clean Download file from database!
+/mrmw - To clean raw files from database!
+/mdclean - To clean files from server!
 """
 
 
-t5 = """Hey {},\n\nHere is the source code of {} \nSo deploy your own and enjoy and don't forget to fork nd to give star 😕!!"""
+t5 = """Hey {},\n\nSource code of {} is private. \nSo Add {} to your groups and enjoy and don't forget to make {} bot as admin!!"""
