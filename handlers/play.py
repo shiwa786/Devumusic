@@ -174,7 +174,7 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="RISING STARS 🥀",
+                            text="ᴛᴇᴀᴍ ʀsɴ🥀",
                             url=f"https://t.me/STARS_RISING"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
@@ -218,7 +218,7 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="RISING STARS🥀",
+                            text="ᴛᴇᴀᴍ ʀsɴ🥀",
                             url=f"https://t.me/STARS_RISING"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
@@ -239,7 +239,7 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="RISING STARS🥀",
+                            text="ᴛᴇᴀᴍ ʀsɴ🥀",
                             url=f"https://t.me/STARS_RISING"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
@@ -298,7 +298,7 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="RISING STARS🥀",
+                            text="ᴛᴇᴀᴍ ʀsɴ🥀",
                             url=f"https://t.me/STARS_RISING"),
                     InlineKeyboardButton(
                             text="ᴜᴘᴅᴀᴛᴇs👾",
