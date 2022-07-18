@@ -41,4 +41,4 @@ t4 = """
 """
 
 
-t5 = """Hey {},\n\nSource code of {} is private. \nSo Add {} to your groups and enjoy and don't forget to make {} bot as admin!!"""
+t5 = """Hey {},\n\nHere is the source code of {} \nSo deploy your own and enjoy and don't forget to fork nd to give star 😕!!"""
