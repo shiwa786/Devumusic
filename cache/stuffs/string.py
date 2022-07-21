@@ -41,4 +41,17 @@ t4 = """
 """
 
 
-t5 = """Hey {},\n\nHere is the source code of {} \nSo deploy your own and enjoy and don't forget to fork nd to give star 😕!!"""
+t5 = """Hey {},\n\nSource Code Of {} \nIs Private So Use Dev Music Bot In Your Groups 😕!!"""
+
+
+ptxt1 = "<b><i>Pinging...</i></b>"
+
+ptxt2 = """<b><i><u>Wew</u></i></b>, `{}` <b><i><u>is working good!⚡</u></i></b>
+<b><i><u>♡︎Ping Pong!! ✨</u></i></b>
+♡︎Server Ping: <code>{}</code>
+♡︎Bot Ping: <code>{}</code>
+♡︎Uptime: <code>{}</code>
+♡︎Pyrogram Version: <code>{}</code>
+♡︎Python Version: <code>{}</code>
+♡︎Owner: <code>{}!</code>
+"""
