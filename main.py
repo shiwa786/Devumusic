@@ -1,7 +1,7 @@
 # Powered by @HYPER_AD13 | @ShiningOff
 # Dear Pero ppls Plish Don't remove this line from here🌚
 # created by ItsmeHyper13
-
+import time
 import requests
 from pyrogram import idle
 from pyrogram import Client as Bot
@@ -18,7 +18,7 @@ bot = Bot(
     bot_token=BOT_TOKEN,
     plugins=dict(root="handlers")
 )
-
+StartTime = time.time()
 async def main():
     async with bot:
         try:
