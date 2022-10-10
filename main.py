@@ -18,7 +18,7 @@ bot = Bot(
     bot_token=BOT_TOKEN,
     plugins=dict(root="handlers")
 )
-StartTime = time.time()
+lbda = time.time()
 async def main():
     async with bot:
         try:
